@@ -46,7 +46,7 @@ export default function Game({
 				{letters.map(letter => {
 					if (guessedLetters.includes(letter)) {
 						return (
-							<span key={letter} className="letter">
+							<span key={Math.random()} className="letter">
 								{letter}
 							</span>
 						);
@@ -72,7 +72,7 @@ export default function Game({
 				<div className="wrongLettersContainer">
 					<p>Letras já utilizadas: </p>
 					{wrongLetters.map(letter => (
-						<span key={letter}>{letter}, </span>
+						<span key={Math.random()}>{letter}, </span>
 					))}
 				</div>
 			</div>
