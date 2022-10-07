@@ -1,8 +1,10 @@
-# Secret Word
+# CustomSecretWord
 
 Projeto criado no curso do Matheus Battisti.
 
-Esse projeto contém várias modificações, as mais relevantes é o uso do EsLint e do Typescript além de modificações pequenas no código. Caso esteja procurando um repositório para comparação de código e identificação de erros, esse não é o mais indicado.
+O projeto do curso se Chama Secret Word, porém eu renomeie para Custom Secret Word pois decidi fazer várias modificações.
+
+As modificações mais relevantes são o uso do EsLint e do Typescript além de modificações pequenas no código. Caso esteja procurando um repositório para comparação de código e identificação de erros, esse não é o mais indicado.
 
 Jogo de adivinhação de palavras.
 
